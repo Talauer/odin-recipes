@@ -1,4 +1,4 @@
-\# Odin Recipes
+# Odin Recipes
 
 
 
@@ -6,17 +6,16 @@ A practice project to apply HTML skills by building a basic recipe website with 
 
 
 
-\## Skills Demonstrated
+## Skills Demonstrated
 
-\- HTML document structure
+- HTML document structure
 
-\- Semantic HTML elements
+- Semantic HTML elements
 
-\- Creating navigation between pages
+- Creating navigation between pages
 
-\- Working with lists, headings, and links
+- Working with lists, headings, and links
 
-\- Image implementation
+- Image implementation
 
-\- Multi-page website organization
-
+- Multi-page website organization
