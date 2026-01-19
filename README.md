@@ -56,4 +56,6 @@ This project provided hands-on experience with:
 
 ---
 
+## 🌐 Live Demo
+[View the live website here](https://talauer.github.io/odin-recipes/)
 *Developed by Sebastián Talauer as part of The Odin Project - HTML Foundations*
