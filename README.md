@@ -22,15 +22,15 @@ This website features three authentic Argentinian recipes with semantic HTML str
 - Git & GitHub (Version Control)
 - Markdown (Documentation)
 
-## 📁 Project Structure
 
+## 📁 Project Structure
 odin-recipes/
-├── index.html # Main landing page
+├── index.html              # Main landing page
 ├── recipes/
-│ ├── beef-empanadas.html # Argentinian beef empanadas
-│ ├── dulce-de-leche.html # Traditional dulce de leche
-│ └── maizena-alfajores.html # Classic alfajores
-└── README.md # Project documentation
+│   ├── beef-empanadas.html # Argentinian beef empanadas
+│   ├── dulce-de-leche.html # Traditional dulce de leche
+│   └── maizena-alfajores.html # Classic alfajores
+└── README.md               # Project documentation
 
 
 ## 🛠️ Skills Demonstrated
