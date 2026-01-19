@@ -24,6 +24,9 @@ This website features three authentic Argentinian recipes with semantic HTML str
 
 
 ## 📁 Project Structure
+## 📁 Project Structure
+
+<pre>
 odin-recipes/
 ├── index.html              # Main landing page
 ├── recipes/
@@ -31,6 +34,7 @@ odin-recipes/
 │   ├── dulce-de-leche.html # Traditional dulce de leche
 │   └── maizena-alfajores.html # Classic alfajores
 └── README.md               # Project documentation
+</pre>
 
 
 ## 🛠️ Skills Demonstrated
